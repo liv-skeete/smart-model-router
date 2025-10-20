@@ -182,4 +182,3 @@ Part of an AI toolset for intelligent request handling. See also: [ai-memory-arc
 ## License
 
 MIT License - See LICENSE file for details
-EOF
