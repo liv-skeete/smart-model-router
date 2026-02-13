@@ -1,7 +1,6 @@
 """
 title: Smart Model Router
 description: A minimal router for Open WebUI that selects a target model per request.
-author: Cody
 version: 1.3.1
 date: 2025-08-19
 changelog: _changelog.md
